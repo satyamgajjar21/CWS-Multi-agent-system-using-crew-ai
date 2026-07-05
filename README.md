@@ -215,6 +215,9 @@ Returns
 
 ---
 
+<img width="1235" height="825" alt="image" src="https://github.com/user-attachments/assets/a4e96fa8-7074-4bc5-b453-71e19d425c57" />
+
+
 ## Installation
 
 Clone the repository
@@ -299,24 +302,6 @@ Buy / Sell / Hold
 - Authentication
 - REST API
 
----
-
-## Screenshots
-
-### Dashboard
-
-_Add project screenshot here_
-
-### Execution Timeline
-
-_Add project screenshot here_
-
-### Final Recommendation
-
-_Add project screenshot here_
-
----
-
 ## Dependencies
 
 - CrewAI
@@ -356,6 +341,7 @@ GitHub
 https://github.com/satyamgajjar21
 
 LinkedIn
+
 
 https://www.linkedin.com/in/Satyam
 
