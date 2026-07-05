@@ -217,6 +217,9 @@ Returns
 
 <img width="1235" height="825" alt="image" src="https://github.com/user-attachments/assets/a4e96fa8-7074-4bc5-b453-71e19d425c57" />
 
+<img width="1235" height="825" alt="Screenshot 2026-07-05 at 11 30 49 AM" src="https://github.com/user-attachments/assets/6da3b53b-44ce-4787-91e8-34bf3d6bee48" />
+<img width="1235" height="825" alt="Screenshot 2026-07-05 at 11 30 34 AM" src="https://github.com/user-attachments/assets/55f42a2b-083f-4f6a-a3af-30af7ce90762" />
+
 
 ## Installation
 
